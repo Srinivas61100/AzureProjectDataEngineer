@@ -1,0 +1,9 @@
+{
+	"name": "ADFAzureProjectSrini",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66165a8a-7708-4892-930d-033e56bbf159",
+		"tenantId": "b12213c6-7bac-4397-bc72-da75d4d99c35"
+	}
+}
