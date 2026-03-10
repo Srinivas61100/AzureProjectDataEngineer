@@ -1,0 +1,9 @@
+{
+	"name": "ADFProjectSrini",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3aa0578-c703-402c-b40f-c93e8dc7bbda",
+		"tenantId": "b12213c6-7bac-4397-bc72-da75d4d99c35"
+	}
+}
